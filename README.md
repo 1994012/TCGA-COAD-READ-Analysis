@@ -380,7 +380,7 @@ To reproduce the analyses, users should:
 
 The analysis scripts are publicly available at:
 
-`https://github.com/USERNAME/REPOSITORY`
+`(https://github.com/1994012/TCGA-COAD-READ-Analysis)`
 
 Replace `USERNAME/REPOSITORY` with the final GitHub account and
 repository name before manuscript submission.
